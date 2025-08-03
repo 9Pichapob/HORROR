@@ -10,18 +10,18 @@
 "name": " คิวบ์ กล่องเกมมรณะ",
 "image": "https://www.037hdmovie.com/wp-content/uploads/2022/09/Cube-2021.jpg",
 "url": "https://hlsp2p.com/view/6173647a-548f-5d95-a8a0-4078092461cc.m3u8",
-"info": PlayIDTV
+"referer": "https://www.037hdmovie.com/"
 },
 
 {"name": "The Offering (2022) มันสิงอยู่ในร่าง",
 "image": "https://www.hooq-movie.com/wp-content/uploads/2023/04/The-Offering-มันสิงอยู่ในร่าง-2022.jpg",
 "url": "https://hlsp2p.com/view/15e94145-96a8-5890-beb3-0d9bfae55fee.m3u8",
-"import": false},
+"referer": ""},
 
 {"name": "Decision to Leave (2022) ฆาตกรรมรักหลังเขา",
 "image": "https://www.hooq-movie.com/wp-content/uploads/2023/03/Decision-to-Leave-2022-old.jpg",
 "url": "https://hlsp2p.com/view/8d079b79-31bc-57d8-9878-4468da5e40d5.m3u8",
-"import": false},
+"referer": ""},
 {"name": "Confession (2022) ฆาตกรรมคำลวง",
 "image": "https://www.hooq-movie.com/wp-content/uploads/2023/03/Confession-2022-Sub-TH.jpg",
 "url": "https://hlsp2p.com/view/5edfa05e-3029-5d1d-a608-c3b83831ad04.m3u8",
@@ -655,13 +655,13 @@
 "name": "Emergency Declaration (2021) ไฟลต์คลั่ง ฝ่านรกชีวะ",
 "image": "https://www.037hdmovie.com/wp-content/uploads/2022/09/Emergency-Declaration-2021.jpg",
 "url": "https://hlsp2p.com/play/515b3bf9-bbf7-5728-857c-2703e3cb3108",
-"embed": true
+"referer": "https://www.037hdmovie.com/"
 },
 {
 "name": "[SUB] Run Sweetheart Run (2022) หนีสิ ที่รักจ๋า",
 "image": "https://www.037hdmovie.com/wp-content/uploads/2022/10/Run-Sweetheart-Run-2022-บรรยายไทย.png",
 "url": "https://hlsp2p.com/play/59c92246-981d-57bc-b649-a11cc227cc71",
-"embed": true
+"referer": "https://www.037hdmovie.com/"
 },
 ]
 }
