@@ -1,8 +1,333 @@
   {
    "name": "รวมหนังผีสยอง",
    "image": "https://www.movies-d.com/wp-content/uploads/2022/07/6zwXcXh.webp",
-   "stations": [
+   "groups": [
 
+  {
+   "name": "หวีดสุดนรก The Green Inferno (2013)",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.org/wp-content/uploads/2017/01/The-Green-Inferno-2013-1.jpeg.webp",
+   "stations": [
+    {
+     "name": "หวีดสุดนรก The Green Inferno (2013)",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2017/01/The-Green-Inferno-2013-1.jpeg.webp",
+     "url": "https://nanaplayer.com/tw4v25c7msmh",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
+   "name": "Them Behind the Door (2024) เปิด DOOR เห็นผี",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.v8-hd.com/wp-content/uploads/2025/07/Them-Behind-the-Doo.jpg",
+   "stations": [
+    {
+     "name": "Them Behind the Door (2024) เปิด DOOR เห็นผี",
+     "info": "หนังจีน พากย์ไทย",
+     "image": "https://www.v8-hd.com/wp-content/uploads/2025/07/Them-Behind-the-Doo.jpg",
+     "url": "https://master.streamhls.com/hlsr2/f1580beef467530b14c89898e662c60d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Baghead (2023) ผีสิงผี พากย์ไทย",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/06/Baghead-2023.webp",
+   "stations": [
+    {
+     "name": "Baghead (2023) ผีสิงผี พากย์ไทย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/06/Baghead-2023.webp",
+     "url": "https://nanaplayer.com/93jq6oe22hwz",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
+   "name": "The Autopsy of Jane Doe (2016) สืบศพหลอน ซ่อนระทึก",
+   "info": "HD th IMDb n/a",
+   "image": "https://www.037hd-movies.com/wp-content/uploads/2018/05/The-Autopsy-of-Jane-Doe-2016.jpg",
+   "stations": [
+    {
+     "name": "The Autopsy of Jane Doe (2016) สืบศพหลอน ซ่อนระทึก",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.037hd-movies.com/wp-content/uploads/2018/05/The-Autopsy-of-Jane-Doe-2016.jpg",
+     "url": "https://enjoy24cdn.com/hlsr2/0c6e9ce77dddbe09785614b8141f005f/master.m3u8",
+     "referer": "https://928hd-th.com/"
+    }
+   ]
+  },
+  {
+   "name": "Insidious วิญญาณตามติด",
+   "image": "https://www.movies-d.com/wp-content/uploads/2022/07/pos022.webp",
+   "stations": [
+    {
+     "name": "Insidious ภาค 1 (2010) อินซิเดียส วิญญาณตามติด",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/pos022.webp",
+     "url": "https://master.streamhls.com/hlsr2/12d2e5338f5ef3b56fc227654c5d7ccb/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Insidious ภาค 2 (2013) วิญญาณยังตามติด 2",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/qjzk0pig5c7aTLlvKzcegD9PXA.webp",
+     "url": "https://master.streamhls.com/hlsr2/c6cffe09420f069b4357863ffdb16a7d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Insidious ภาค 3 (2015) วิญญาณตามติด 3",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/insidious-1.webp",
+     "url": "https://master.streamhls.com/hlsr2/fa0f906d51d2a6aeaf255faddce08c35/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Insidious ภาค 4 The Last Key (2018) วิญญาณตามติด กุญแจผีบอก",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/nb9fc9INMg8kQ8L7sE7XTNsZnUX.webp",
+     "url": "https://master.streamhls.com/hlsr2/97d3c8863f4c9f6bc632f9f7bef32ffe/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Insidious ภาค 5 (2023) วิญญาณตามติด ประตูผีผ่าน",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2023/07/Insidious-The-Red-Door-2023.webp",
+     "url": "https://master.streamhls.com/hlsr2/52c237c3749e73b416c8536fdfe8ef31/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Oculus (2013) ส่องให้เห็นผี",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.net/wp-content/uploads/2022/04/Oculus-2013-ส่องให้เห็นผี-Full-HD.jpeg",
+   "stations": [
+    {
+     "name": "Oculus (2013) ส่องให้เห็นผี",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2022/04/Oculus-2013-ส่องให้เห็นผี-Full-HD.jpeg",
+     "url": "https://enjoy24cdn.com/hlsr2/c6954c1aec717658e6bf08c3f3e3da7d/master.m3u8",
+     "referer": "https://928hd-th.com/"
+    }
+   ]
+  },
+  {
+   "name": "The Wailing (2016) ฆาตกรรมอำปีศาจ",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.org/wp-content/uploads/2017/02/The-Wailing-2016.jpeg.webp",
+   "stations": [
+    {
+     "name": "The Wailing (2016) ฆาตกรรมอำปีศาจ",
+     "info": "หนังเกาหลี พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2017/02/The-Wailing-2016.jpeg.webp",
+     "url": "https://nanaplayer.com/g8latrlc839b",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+
+  {
+   "name": "รวมหนังผีไทย",
+   "image": "https://www.sarakadeelite.com/wp-content/uploads/2020/07/nak3.jpg",
+   "groups": [
+
+  {
+   "name": "ดงพญาไฟ The Trek (2002)",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.org/wp-content/uploads/2020/02/The-Trek-2002.jpeg",
+   "stations": [
+    {
+     "name": "ดงพญาไฟ The Trek (2002)",
+     "info": "หนังไทย++",
+     "image": "https://nanamovies.org/wp-content/uploads/2020/02/The-Trek-2002.jpeg",
+     "url": "https://nanaplayer.com/sun95weop7pt",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
+   "name": "แช่ง Chaeng (2019)",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/07/Chaeng-2019.webp",
+   "stations": [
+    {
+     "name": "แช่ง Chaeng (2019)",
+     "info": "หนังไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/07/Chaeng-2019.webp",
+     "url": "https://nanaplayer.com/g7unbfazed9y",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
+   "name": "หอ หึ หึ HOR HUE HUE (1992)",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/07/%E0%B8%AB%E0%B8%AD-%E0%B8%AB%E0%B8%B6-%E0%B8%AB%E0%B8%B6-1992.webp",
+   "stations": [
+    {
+     "name": "หอ หึ หึ HOR HUE HUE (1992)",
+     "info": "หนังไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/07/%E0%B8%AB%E0%B8%AD-%E0%B8%AB%E0%B8%B6-%E0%B8%AB%E0%B8%B6-1992.webp",
+     "url": "https://nanaplayer.com/v4rm8s1hhqip",
+     "referer": "https://www.nanamovies.me/"
+    }
+   ]
+  },
+  {
+   "name": "ผีโทรศัพท์ Viral (2018)",
+   "info": "HD th IMDb n/a",
+   "image": "https://nanamovies.org/wp-content/uploads/2019/03/Viral-2018.jpeg.webp",
+   "stations": [
+    {
+     "name": "ผีโทรศัพท์ Viral (2018)",
+     "info": "หนังไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2019/03/Viral-2018.jpeg.webp",
+     "url": "https://nanaplayer.com/gxrcddlxe3ky",
+     "referer": "https://www.nanamovies.me/"
+    }
+ ]
+}]},
+
+  {
+   "name": "รวมหนังผี",
+   "image": "https://www.movies-d.com/wp-content/uploads/2022/07/6zwXcXh.webp",
+   "stations": [
+    {
+     "name": "The Exorcism (2024) นรก สิง สาป",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2025/06/The-Exorcism-2024.webp",
+     "url": "https://nanaplayer.com/ihe61e1da69q",
+     "referer": "https://www.nanamovies.me/"
+    },
+    {
+     "name": "The Last Exorcism (2010) นรกเฮี้ยน",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2017/03/The-Last-Exorcism-2010-1.jpeg.webp",
+     "url": "https://nanaplayer.com/pj3ohrjb3oo4",
+     "referer": "https://www.nanamovies.me/"
+    },
+    {
+     "name": "The Last Exorcism Part II (2013) นรกเฮี้ยน 2",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2018/12/The-Last-Exorcism-Part-II-2013.jpeg.webp",
+     "url": "https://nanaplayer.com/3dpj1ze6tvng",
+     "referer": "https://www.nanamovies.me/"
+    },
+    {
+     "name": "The Exorcism of Emily Rose (2005) พลิกปมอาถรรพ์สยองโลก",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2024/05/The-Exorcism-of-Emily-Rose-2005-พลิกปมอาถรรพ์สยองโลก.webp",
+     "url": "https://nanaplayer.com/oe7tfbocavu2",
+     "referer": "https://www.nanamovies.me/"
+    },
+    {
+     "name": "Haunting of Mount Gede (2025) คำสาปแห่งเขาเกเด",
+     "info": "หนังอินโดฯ พากย์ไทย",
+     "image": "https://www.037hd-movies.com/wp-content/uploads/2025/06/Haunting-of-Mount-Gede-2025.jpg",
+     "url": "https://master.streamhls.com/hlsr2/c9709246ca1a1d0766c1c7fcff0761f8/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Machinist (2004) หลอน…ไม่หลับ พากย์ไทย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2025/06/The-Machinist-2004.webp",
+     "url": "https://nanaplayer.com/biwlgll19yua",
+     "referer": "https://www.nanamovies.me/"
+    },
+    {
+     "name": "Priest (2011) นักบุญปีศาจ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2017/01/Priest-2011.jpeg.webp",
+     "url": "https://nanaplayer.com/rhckptrew8me",
+     "referer": "https://www.nanamovies.me/"
+    },
+    {
+     "name": "Red Snow Killer (The Murderer) (2013) นักฆ่าบริสุทธิ์",
+     "info": "หนังเกาหลี พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2023/12/fullsizephoto389413.webp",
+     "url": "https://master.streamhls.com/hlsr2/67afc1862af62a045ec75f1dbd663478/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Studio 666 (2022) ปลุกวิญญาณร็อก",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.24-hdd.com/wp-content/uploads/2023/08/Studio-666-2022-ปลุกวิญญาณร็อก-187x269.jpg",
+     "url": "https://main.24playerhd.com/newplaylist/6715f2bfbf12651f51cfb312/6715f2bfbf12651f51cfb312.m3u8",
+     "referer": "https://www.24-hdd.com/"
+    },
+    {
+     "name": "Hostel (2005) นรกรอชำแหละ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2019/12/Hostel-2005.jpeg.webp",
+     "url": "https://nanaplayer.com/wdogt3yahylx",
+     "referer": "https://www.nanamovies.me/"
+    },
+    {
+     "name": "Hostel Part II (2007) นรกรอชำแหละ 2",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2019/12/Hostel-Part-II-2007.jpeg.webp",
+     "url": "https://nanaplayer.com/xyijb9jkgsqh",
+     "referer": "https://www.nanamovies.me/"
+    },
+    {
+     "name": "Hostel Part III (2011) นรกรอชำแหละ 3",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2019/12/Hostel-Part-III-2011.jpeg.webp",
+     "url": "https://nanaplayer.com/9lhywl60003b",
+     "referer": "https://www.nanamovies.me/"
+    },
+    {
+     "name": "Beast in River (2023) อสูรแม่น้ำ",
+     "info": "หนังจีน พากย์ไทย",
+     "image": "https://lk-hdmovie.net/wp-content/uploads/2023/09/Beast-in-River-2023-อสูรแม่น้ำ.jpg",
+     "url": "https://enjoy24cdn.com/hlsr2/e724fe17e5fcdf8d290218063690d367/master.m3u8",
+     "referer": "https://enjoy24cdn.com/"
+      },
+      {
+     "name": "Unrest (2006) ศพจ้องตาย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2023/08/Unrest-2006-ศพจ้องตาย.jpeg",
+     "url": "https://nanaplayer.com/jndtajah5g1g",
+     "referer": "https://www.nanamovies.me/"
+    },
+    {
+     "name": "The Strangers (2008) คืนโหด คนแปลกหน้า",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.nung2-hd.com/wp-content/uploads/2015/12/20190215182810the-strangers-590749ae49d86.jpg",
+     "url": "https://master.streamhls.com/hlsr2/d633361c65e46a3ba624c3af2a0d8683/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "The Strangers: Prey at Night (2018) คนแปลกหน้า ขอฆ่าหน่อยสิ ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2018/05/The-Strangers-Prey-at-Night-2018.jpeg.webp",
+     "url": "https://nanaplayer.com/ng6ddc37nrmk",
+     "referer": "https://www.nanamovies.me/"
+    },
+    {
+     "name": "The Strangers: Chapter 1 (2024) เดอะ สเตรนเจอร์ส อำมหิตฆ่าไม่สน",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/05/dlW5p3CM3YG4MlFzU9KdQBA5Ijl.webp",
+     "url": "https://master.streamhls.com/hlsr2/cd5a1f3f37e60f0813cb682a9b4b8247/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Deliver Us from Evil (2014) ล่าท้าอสูรนรก",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.037hd-movies.com/wp-content/uploads/2018/04/SYbQybvcKS0TELUVejJ.jpg",
+     "url": "https://main.24playerhd.com/newplaylist/e28f5d0a0aa062f368eb0058/e28f5d0a0aa062f368eb0058.m3u8",
+     "referer": "https://www.123-hdd.com/"
+    },
+    {
+     "name": "Apocalypse Z The Beginning of the End (2024) อะโพคาลิปซิส เซต้า จุดเริ่มต้นของจุดจบ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://f.ptcdn.info/066/086/000/m38f8wm4ic4fSC2vbtg-o.jpg",
+     "url": "https://main.24playerhd.com/newplaylist/b0e0be44911e0e9294cfbbb5/b0e0be44911e0e9294cfbbb5.m3u8",
+     "referer": "https://www.24-hdd.com/"
+    },
     {
      "name": "Wolf Man (2025) มนุษย์หมาป่า",
      "info": "หนังฝรั่ง พากย์ไทย",
@@ -356,29 +681,8 @@
     {
      "name": "Tarot (2024) ทาโร่ต์ ไพ่เรียกผี",
      "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "",
+     "image": "https://www.movies-d.com/wp-content/uploads/2024/05/xpNXH2z7q3hB0GuNXzGFeEX6k7C.webp",
      "url": "https://master.streamhls.com/hlsr2/c780a0a428043f7608fb580696bf784d/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "The Strangers (2008) คืนโหด คนแปลกหน้า",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.nung2-hd.com/wp-content/uploads/2015/12/20190215182810the-strangers-590749ae49d86.jpg",
-     "url": "https://master.streamhls.com/hlsr2/d633361c65e46a3ba624c3af2a0d8683/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "The Strangers: Prey at Night (2018) คนแปลกหน้า ขอฆ่าหน่อยสิ ",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://nanamovies.net/wp-content/uploads/2018/05/The-Strangers-Prey-at-Night-2018.jpeg.webp",
-     "url": "https://nanaplayer.com/ng6ddc37nrmk",
-     "referer": "https://www.nanamovies.me/"
-    },
-    {
-     "name": "The Strangers: Chapter 1 (2024) เดอะ สเตรนเจอร์ส อำมหิตฆ่าไม่สน",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.movies-d.com/wp-content/uploads/2024/05/dlW5p3CM3YG4MlFzU9KdQBA5Ijl.webp",
-     "url": "https://master.streamhls.com/hlsr2/cd5a1f3f37e60f0813cb682a9b4b8247/master.m3u8",
      "referer": "https://master.streamhls.com/"
     },
     {
@@ -683,7 +987,7 @@
      "referer": "https://www.nanamovies.me/"
     },
     {
-     "name": "The Ring Two (2005) เดอะริง คำสาปมรณะ 2 ",
+     "name": "The Ring Two (2005) เดอะริง คำสาปมรณะ 2",
      "info": "หนังฝรั่ง พากย์ไทย",
      "image": "https://nanamovies.net/wp-content/uploads/2023/11/The-Ring-Two-2005-เดอะริง-คำสาปมรณะ-2.jpeg",
      "url": "https://nanaplayer.com/zku60prcg55v",
@@ -800,10 +1104,15 @@
      "image": "https://www.movies-d.com/wp-content/uploads/2023/11/jVBNkdKIXLJEIMTU0ZlwA58BpDy-scaled.webp",
      "url": "https://master.streamhls.com/hlsr2/065d5eea305552507b95ee6a4020470d/master.m3u8",
      "referer": "https://master.streamhls.com/"
-
-
-
     },
+    {
+     "name": "Incantation (2022) มนตรา พากย์ไทย",
+     "info": "หนังจีน พากย์ไทย",
+     "image": "https://nanamovies.net/wp-content/uploads/2022/07/Incantation-2022-มนตรา.jpeg",
+     "url": "https://nanaplayer.com/m60r8hvq36x7",
+     "referer": "https://www.nanamovies.me/"
+    },
+
     {
      "name": "Saw (2004) ซอว์ เกม ตัด-ต่อ-ตาย",
      "info": "หนังฝรั่ง พากย์ไทย",
@@ -873,6 +1182,15 @@
      "image": "https://www.24-hdd.com/wp-content/uploads/2023/10/Saw-X-2023-ชำแหละแค้น.เกมตัดตาย-187x269.jpg",
      "url": "https://main.24playerhd.com/newplaylist/20c69332666a34863ad92eaa/20c69332666a34863ad92eaa.m3u8",
      "referer": "https://www.24-hdd.com/"
+    },
+    {
+     "name": "Bring Her Back (2025)",
+     "info": "หนังฝรั่ง ซับไทย",
+     "image": "https://moviesdoofree.com/wp-content/uploads/2025/07/2-3.jpg",
+     "url": "https://serverdatam3u8.com/movie/M15376.mp4/playlist.m3u8",
+     "referer": "https://moviesdoofree.com/"
     }
    ]
-  },
+  }
+ ]
+}
