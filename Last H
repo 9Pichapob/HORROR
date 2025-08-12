@@ -4,15 +4,15 @@
    "groups": [
 
   {
-   "name": "Pabrik Gula (2025) โรงงานผีดุ",
-   "image": "https://www.037hdd-movie.com/wp-content/uploads/2025/08/Pabrik-Gula-2025.jpg",
+   "name": "Nosferatu (2025) นอสเฟอราตู พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2025/01/Nosferatu-2025.webp",
    "stations": [
     {
-     "name": "Pabrik Gula (2025) โรงงานผีดุ",
-     "info": "หนังอินโดฯ พากย์ไทย",
-     "image": "https://www.037hdd-movie.com/wp-content/uploads/2025/08/Pabrik-Gula-2025.jpg",
-     "url": "https://master.streamhls.com/hls/6190d33c991f82ea50df1f65ddd5edf8/master.m3u8",
-     "referer": "https://master.streamhls.com/"
+     "name": "Nosferatu (2025) นอสเฟอราตู พากย์ไทย",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2025/01/Nosferatu-2025.webp",
+     "url": "https://nanaplayer.com/we1zbma9rp97",
+     "referer": "https://www.nanamovies.me/"
     }
    ]
   },
@@ -137,6 +137,19 @@
      "info": "หนังฝรั่ง พากย์ไทย",
      "image": "https://www.movies-d.com/wp-content/uploads/2023/07/Insidious-The-Red-Door-2023.webp",
      "url": "https://master.streamhls.com/hlsr2/52c237c3749e73b416c8536fdfe8ef31/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
+   "name": "Pabrik Gula (2025) โรงงานผีดุ",
+   "image": "https://www.037hdd-movie.com/wp-content/uploads/2025/08/Pabrik-Gula-2025.jpg",
+   "stations": [
+    {
+     "name": "Pabrik Gula (2025) โรงงานผีดุ",
+     "info": "หนังอินโดฯ พากย์ไทย",
+     "image": "https://www.037hdd-movie.com/wp-content/uploads/2025/08/Pabrik-Gula-2025.jpg",
+     "url": "https://master.streamhls.com/hls/6190d33c991f82ea50df1f65ddd5edf8/master.m3u8",
      "referer": "https://master.streamhls.com/"
     }
    ]
