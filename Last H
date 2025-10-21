@@ -4,6 +4,26 @@
    "groups": [
 
   {
+   "name": "The Black Phone",
+   "image": "https://nanamovies.org/wp-content/uploads/2022/07/The-Black-Phone-2021-สายหลอน-ซ่อนวิญญาณ.jpeg",
+   "stations": [
+    {
+     "name": "The Black Phone (2021) สายหลอน ซ่อนวิญญาณ",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://nanamovies.org/wp-content/uploads/2022/07/The-Black-Phone-2021-สายหลอน-ซ่อนวิญญาณ.jpeg",
+     "url": "https://nanaplayer.com/l1qnu7ra3f4y",
+     "referer" : "https://nanamovies.org/"
+    },
+    {
+     "name": "Black Phone 2 (2025) สายหลอน ซ่อนวิญญาณ 2",
+     "info": "หนังฝรั่ง ซับไทย",
+     "image": "https://www.kub-hd.com/wp-content/uploads/2025/09/Black-Phone-2-2025.webp",
+     "url": "https://hplay.hdplayfull.xyz/embed/wu2h4lddr7",
+     "referer": "https://www.kub-hd.com/"
+    }
+   ]
+  },
+  {
    "name": "Deliver us from Evil",
    "image": "https://nanamovies.org/wp-content/uploads/2023/10/Deliver-us-from-Evil-2006-คนโคตรบาปคราบนักบุญ.jpeg",
    "stations": [
