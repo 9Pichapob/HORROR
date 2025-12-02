@@ -4,6 +4,19 @@
    "groups": [
 
   {
+   "name": "It Lives Inside (2023) ขังปีศาจคลั่ง",
+   "info": "หนังฝรั่ง พากย์ไทย",
+   "image": "https://nanamovies.org/wp-content/uploads/2023/10/Lives-Inside-2023-ขังปีศาจคลั่ง.jpeg",
+   "stations": [
+    {
+     "name": "It Lives Inside (2023) ขังปีศาจคลั่ง",
+     "image": "https://nanamovies.org/wp-content/uploads/2023/10/Lives-Inside-2023-ขังปีศาจคลั่ง.jpeg",
+     "url": "https://nanaplayer.com/3sylhmi8r1rs",
+     "referer" : "https://nanamovies.org/"
+    }
+   ]
+  },
+  {
    "name": "The Black Phone",
    "image": "https://nanamovies.org/wp-content/uploads/2022/07/The-Black-Phone-2021-สายหลอน-ซ่อนวิญญาณ.jpeg",
    "stations": [
