@@ -4,6 +4,54 @@
    "groups": [
 
   {
+   "name": "Insidious วิญญาณตามติด",
+   "image": "https://www.movies-d.com/wp-content/uploads/2022/07/pos022.webp",
+   "stations": [
+    {
+     "name": "Insidious Out of the Further (2026) วิญญาณตามติด หลุดจากนรก",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.24-hdx.com/wp-content/uploads/2026/08/Insidious-Out-of-the-Further-2026-วิญญาณตามติด-หลุดจากนรก-187x269.png",
+     "url": "https://main.24playerhd.com/m3u8/e16404fae8fe5aff04326dc4/e16404fae8fe5aff04326dc4438.m3u8",
+     "referer": "https://www.24-hdx.com/"
+    },
+    {
+     "name": "Insidious ภาค 5 (2023) วิญญาณตามติด ประตูผีผ่าน",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2023/07/Insidious-The-Red-Door-2023.webp",
+     "url": "https://master.streamhls.com/hlsr2/52c237c3749e73b416c8536fdfe8ef31/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Insidious ภาค 4 The Last Key (2018) วิญญาณตามติด กุญแจผีบอก",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/nb9fc9INMg8kQ8L7sE7XTNsZnUX.webp",
+     "url": "https://master.streamhls.com/hlsr2/97d3c8863f4c9f6bc632f9f7bef32ffe/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Insidious ภาค 3 (2015) วิญญาณตามติด 3",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/insidious-1.webp",
+     "url": "https://master.streamhls.com/hlsr2/fa0f906d51d2a6aeaf255faddce08c35/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Insidious ภาค 2 (2013) วิญญาณยังตามติด 2",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/qjzk0pig5c7aTLlvKzcegD9PXA.webp",
+     "url": "https://master.streamhls.com/hlsr2/c6cffe09420f069b4357863ffdb16a7d/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    },
+    {
+     "name": "Insidious ภาค 1 (2010) อินซิเดียส วิญญาณตามติด",
+     "info": "หนังฝรั่ง พากย์ไทย",
+     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/pos022.webp",
+     "url": "https://master.streamhls.com/hlsr2/12d2e5338f5ef3b56fc227654c5d7ccb/master.m3u8",
+     "referer": "https://master.streamhls.com/"
+    }
+   ]
+  },
+  {
    "name": "Evil Dead Burn (2026)",
    "info": "หนังฝรั่ง พากย์ไทย",
    "image": "https://www.24-hdx.com/wp-content/uploads/2026/07/Evil-Dead-Burn-2026-187x269.png",
@@ -309,47 +357,6 @@
      "image": "https://nanamovies.org/wp-content/uploads/2021/05/The-Skeleton-Key-2005-เปิดประตูหลอน-Full-HD.jpeg",
      "url": "https://nanaplayer.com/kbblzl61c6bi",
      "referer": "https://www.nanamovies.me/"
-    }
-   ]
-  },
-  {
-   "name": "Insidious วิญญาณตามติด",
-   "image": "https://www.movies-d.com/wp-content/uploads/2022/07/pos022.webp",
-   "stations": [
-    {
-     "name": "Insidious ภาค 1 (2010) อินซิเดียส วิญญาณตามติด",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/pos022.webp",
-     "url": "https://master.streamhls.com/hlsr2/12d2e5338f5ef3b56fc227654c5d7ccb/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Insidious ภาค 2 (2013) วิญญาณยังตามติด 2",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/qjzk0pig5c7aTLlvKzcegD9PXA.webp",
-     "url": "https://master.streamhls.com/hlsr2/c6cffe09420f069b4357863ffdb16a7d/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Insidious ภาค 3 (2015) วิญญาณตามติด 3",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/insidious-1.webp",
-     "url": "https://master.streamhls.com/hlsr2/fa0f906d51d2a6aeaf255faddce08c35/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Insidious ภาค 4 The Last Key (2018) วิญญาณตามติด กุญแจผีบอก",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.movies-d.com/wp-content/uploads/2022/07/nb9fc9INMg8kQ8L7sE7XTNsZnUX.webp",
-     "url": "https://master.streamhls.com/hlsr2/97d3c8863f4c9f6bc632f9f7bef32ffe/master.m3u8",
-     "referer": "https://master.streamhls.com/"
-    },
-    {
-     "name": "Insidious ภาค 5 (2023) วิญญาณตามติด ประตูผีผ่าน",
-     "info": "หนังฝรั่ง พากย์ไทย",
-     "image": "https://www.movies-d.com/wp-content/uploads/2023/07/Insidious-The-Red-Door-2023.webp",
-     "url": "https://master.streamhls.com/hlsr2/52c237c3749e73b416c8536fdfe8ef31/master.m3u8",
-     "referer": "https://master.streamhls.com/"
     }
    ]
   },
